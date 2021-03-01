@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\jesus\desktop\proiect fractii\source.cpp(17): warning C4101: 'x': unreferenced local variable
+c:\users\jesus\desktop\proiect fractii\source.cpp(18): warning C4101: 'nrit': unreferenced local variable
+  Proiect Fractii.vcxproj -> C:\Users\Jesus\Desktop\Proiect Fractii\Debug\Proiect Fractii.exe
+  Proiect Fractii.vcxproj -> C:\Users\Jesus\Desktop\Proiect Fractii\Debug\Proiect Fractii.pdb (Full PDB)
